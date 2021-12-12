@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
